@@ -2,7 +2,7 @@
 
 ## 📌 About This Project
 
-This is a **Todo App** built as part of an assignment. The project demonstrates various React concepts such as **lifting state up, using multiple components, localStorage, and sorting functionality**. The app allows users to **add, remove, mark todos as complete/incomplete, from a blockchain project.** The part of which is uploaded on the github is the frontend part of the project. So no blockchain functionality is implemented in this project.
+This is a **Todo App** built as part of an assignment. The project demonstrates various React concepts such as **lifting state up, using multiple components, localStorage, and sorting functionality**. The app allows users to **add, remove, mark todos as complete/incomplete, from a blockchain contract.** The part of which is uploaded on the github is the frontend part of the project. So no blockchain functionality is implemented in this project.
 
 ## 🛠️ Technologies Used
 
